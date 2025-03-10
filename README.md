@@ -15,7 +15,6 @@ Here’s a list of topics covered in this repository:
         - Linear Regression
         - Multiple Linear Regression
         - Polynomial Regression
-        - Lasso and Ridge Regression
         - Support Vector Regression (SVR)
     - Each model is built on specific datasets to showcase the unique features and use cases of different regression techniques.
 6. Classification code
@@ -26,7 +25,6 @@ Here’s a list of topics covered in this repository:
          - SVM Kernel
 7. Clustering Code
       - This folder contains the implementation of various Clustering Models using Python. These unsupervised learning techniques are designed to group data points based on similarities in their features without any labeled outputs. In this project, the models are applied to the Mall Customers dataset. Clustering Models i used are:
-         - Hierarchical Clustering
          - K-Means Clustering
          - Silhouette Analysis
 8. CrossValidation Method Types
